@@ -4,4 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Golang】testingパッケージのError/ErrorfとFatal/Fatalfの違い](https://simple-minds-think-alike.hatenablog.com/entry/go-testing-error-fatal)
+- [【Golang】ビルドしたバイナリのバージョン情報を表示、コマンドラインオプションを受け取るには (flag, spf13/pflag パッケージ)](https://simple-minds-think-alike.hatenablog.com/entry/golang-flag)
+- [【Golang】GitHubのOSSをフォークしてPull Requestを送ってみた](https://simple-minds-think-alike.hatenablog.com/entry/pr-golang-oss)
+- [Linuxマシンでgit(github)のコミットにGPG署名をする](https://simple-minds-think-alike.hatenablog.com/entry/gpg-commit)
+- [【Golang】cobraで作ったコマンドラインツール(CLI)にフラグを追加する (pflag)](https://simple-minds-think-alike.hatenablog.com/entry/add-flags-to-cobra-app)
 <!-- BLOG-POST-LIST:END -->
