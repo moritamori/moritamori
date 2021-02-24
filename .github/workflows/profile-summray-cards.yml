@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub-Profile-Summary-Cards and Blog-post-workflow
 
 on:
   schedule: # execute every 24 hours
@@ -18,3 +18,6 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://simple-minds-think-alike.hatenablog.com/rss"
