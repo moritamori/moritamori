@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【Golang】go-sqlmock でGormを使ったアプリケーションのテストを書く](https://simple-minds-think-alike.hatenablog.com/entry/go-sqlmock-gorm)
+- [【Golang】Github actionsでカバレージを取得しCodecovにアップロードする](https://simple-minds-think-alike.hatenablog.com/entry/golang-codecov-action)
+- [【Golang】go-sqlmock でGorm V2を使ったアプリケーションのテストを書く](https://simple-minds-think-alike.hatenablog.com/entry/go-sqlmock-gorm)
 - [【Golang】testingパッケージのError/ErrorfとFatal/Fatalfの違い](https://simple-minds-think-alike.hatenablog.com/entry/go-testing-error-fatal)
 - [【Golang】ビルドしたバイナリのバージョン情報を表示、コマンドラインオプションを受け取るには (flag, spf13/pflag パッケージ)](https://simple-minds-think-alike.hatenablog.com/entry/golang-flag)
 - [【Golang】GitHubのOSSをフォークしてPull Requestを送ってみた](https://simple-minds-think-alike.hatenablog.com/entry/pr-golang-oss)
-- [Linuxマシンでgit(github)のコミットにGPG署名をする](https://simple-minds-think-alike.hatenablog.com/entry/gpg-commit)
 <!-- BLOG-POST-LIST:END -->
