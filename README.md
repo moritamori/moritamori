@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Golang】apitest でEchoを使ったREST APIのテストを書く](https://simple-minds-think-alike.hatenablog.com/entry/echo-testing)
 - [mysqldump: Error: 'Access denied; you need (at least one of) the PROCESS privilege(s) for this operation' when trying to dump tablespaces が発生した時の対処](https://simple-minds-think-alike.hatenablog.com/entry/mysql-dump-error)
 - [【Golang】Github actionsでカバレッジを取得しCodecovにアップロードする](https://simple-minds-think-alike.hatenablog.com/entry/golang-codecov-action)
 - [【Golang】go-sqlmock でGorm を使ったアプリケーションのテストを書く](https://simple-minds-think-alike.hatenablog.com/entry/go-sqlmock-gorm)
 - [【Golang】testingパッケージのError/ErrorfとFatal/Fatalfの違い](https://simple-minds-think-alike.hatenablog.com/entry/go-testing-error-fatal)
-- [【Golang】ビルドしたバイナリのバージョン情報を表示、コマンドラインオプションを受け取るには (flag, spf13/pflag パッケージ)](https://simple-minds-think-alike.hatenablog.com/entry/golang-flag)
 <!-- BLOG-POST-LIST:END -->
