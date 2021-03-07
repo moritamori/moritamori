@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Golang】単一のゴルーチンに閉じ込める・または相互排他によって共有された変数による平行性を確保する](https://simple-minds-think-alike.hatenablog.com/entry/golang-variable-concurrency)
 - [【Golang】apitest でEchoを使ったREST APIのテストを書く](https://simple-minds-think-alike.hatenablog.com/entry/echo-testing)
 - [mysqldump: Error: 'Access denied; you need (at least one of) the PROCESS privilege(s) for this operation' when trying to dump tablespaces が発生した時の対処](https://simple-minds-think-alike.hatenablog.com/entry/mysql-dump-error)
 - [【Golang】Github actionsでカバレッジを取得しCodecovにアップロードする](https://simple-minds-think-alike.hatenablog.com/entry/golang-codecov-action)
 - [【Golang】go-sqlmock でGorm を使ったアプリケーションのテストを書く](https://simple-minds-think-alike.hatenablog.com/entry/go-sqlmock-gorm)
-- [【Golang】testingパッケージのError/ErrorfとFatal/Fatalfの違い](https://simple-minds-think-alike.hatenablog.com/entry/go-testing-error-fatal)
 <!-- BLOG-POST-LIST:END -->
