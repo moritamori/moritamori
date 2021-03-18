@@ -4,7 +4,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【Github actions】dependabotのPull RequestでSecretsが参照できずワークフローがFailになった場合の対処](https://simple-minds-think-alike.hatenablog.com/entry/dependabot-pull-request-fail)
+- [【Github actions】DependabotのPull RequestでSecretsが参照できずワークフローがFailになった場合の対処](https://simple-minds-think-alike.hatenablog.com/entry/dependabot-pull-request-fail)
 - [DockerイメージをAmazon ECRパブリックレジストリで公開してみた](https://simple-minds-think-alike.hatenablog.com/entry/amazon-ecr-public)
 - [【Golang】共有された変数を平行的に安全するには（単一のゴルーチンに閉じ込める、相互排他）](https://simple-minds-think-alike.hatenablog.com/entry/golang-variable-concurrency)
 - [【Golang】apitest でEchoを使ったREST APIのテストを書く](https://simple-minds-think-alike.hatenablog.com/entry/echo-testing)
