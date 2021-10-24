@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PDFファイル構造の概要](https://simple-minds-think-alike.moritamorie.com/entry/pdf-structure)
 - [【Golang】UniPDFでPDFファイルにデジタル署名する](https://simple-minds-think-alike.moritamorie.com/entry/digital-signature-with-unipdf)
 - [【Github actions】DependabotのPull RequestでSecretsが参照できずワークフローがFailになった場合の対処](https://simple-minds-think-alike.moritamorie.com/entry/dependabot-pull-request-fail)
 - [DockerイメージをAmazon ECRパブリックレジストリで公開してみた](https://simple-minds-think-alike.moritamorie.com/entry/amazon-ecr-public)
 - [【Golang】共有された変数を平行的に安全するには（単一のゴルーチンに閉じ込める、相互排他）](https://simple-minds-think-alike.moritamorie.com/entry/golang-variable-concurrency)
-- [【Golang】apitest でEchoを使ったREST APIのテストを書く](https://simple-minds-think-alike.moritamorie.com/entry/echo-testing)
 <!-- BLOG-POST-LIST:END -->
