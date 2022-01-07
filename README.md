@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Golang】Auth0のOpenID Connect連携アプリを作るチュートリアルをやってみた](https://simple-minds-think-alike.moritamorie.com/entry/go-oidc-with-auth0)
 - [PDFファイル構造の概要](https://simple-minds-think-alike.moritamorie.com/entry/pdf-structure)
 - [【Golang】UniPDFでPDFファイルにデジタル署名する](https://simple-minds-think-alike.moritamorie.com/entry/digital-signature-with-unipdf)
 - [【Github actions】DependabotのPull RequestでSecretsが参照できずワークフローがFailになった場合の対処](https://simple-minds-think-alike.moritamorie.com/entry/dependabot-pull-request-fail)
 - [DockerイメージをAmazon ECRパブリックレジストリで公開してみた](https://simple-minds-think-alike.moritamorie.com/entry/amazon-ecr-public)
-- [【Golang】共有された変数を平行的に安全するには（単一のゴルーチンに閉じ込める、相互排他）](https://simple-minds-think-alike.moritamorie.com/entry/golang-variable-concurrency)
 <!-- BLOG-POST-LIST:END -->
