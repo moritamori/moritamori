@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Golang】go-oidcでHS256に対応する](https://simple-minds-think-alike.moritamorie.com/entry/go-oidc-with-hs256)
 - [【Golang】Auth0のOpenID Connect連携アプリを作るチュートリアルをやってみた](https://simple-minds-think-alike.moritamorie.com/entry/go-oidc-with-auth0)
 - [PDFファイル構造の概要](https://simple-minds-think-alike.moritamorie.com/entry/pdf-structure)
 - [【Golang】UniPDFでPDFファイルにデジタル署名する](https://simple-minds-think-alike.moritamorie.com/entry/digital-signature-with-unipdf)
 - [【Github actions】DependabotのPull RequestでSecretsが参照できずワークフローがFailになった場合の対処](https://simple-minds-think-alike.moritamorie.com/entry/dependabot-pull-request-fail)
-- [DockerイメージをAmazon ECRパブリックレジストリで公開してみた](https://simple-minds-think-alike.moritamorie.com/entry/amazon-ecr-public)
 <!-- BLOG-POST-LIST:END -->
