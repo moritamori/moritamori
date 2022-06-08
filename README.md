@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Slack APIを通じてメッセージ投稿する](https://simple-minds-think-alike.moritamorie.com/entry/post-message-with-slack-api)
 - [GitLab CI/CDのQuick Startチュートリアルをやってみた](https://simple-minds-think-alike.moritamorie.com/entry/gitlab-cicd-quick-start)
 - [【Golang】go-oidcでHS256に対応する](https://simple-minds-think-alike.moritamorie.com/entry/go-oidc-with-hs256)
 - [【Golang】Auth0のOpenID Connect連携アプリを作るチュートリアルをやってみた](https://simple-minds-think-alike.moritamorie.com/entry/go-oidc-with-auth0)
 - [PDFファイル構造の概要](https://simple-minds-think-alike.moritamorie.com/entry/pdf-structure)
-- [【Golang】UniPDFでPDFファイルにデジタル署名する](https://simple-minds-think-alike.moritamorie.com/entry/digital-signature-with-unipdf)
 <!-- BLOG-POST-LIST:END -->
