@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Golang】slack-goを使ってSlackのリクエスト署名を検証する＜解説篇＞](https://simple-minds-think-alike.moritamorie.com/entry/howto-verify-requests-with-slack-go)
 - [【Golang】slack-goを使ってSlackのリクエスト署名を検証する＜実装編＞](https://simple-minds-think-alike.moritamorie.com/entry/verify-requests-with-slack-go)
 - [Slack APIを通じてメッセージ投稿する](https://simple-minds-think-alike.moritamorie.com/entry/post-message-with-slack-api)
 - [GitLab CI/CDのQuick Startチュートリアルをやってみた](https://simple-minds-think-alike.moritamorie.com/entry/gitlab-cicd-quick-start)
 - [【Golang】go-oidcでHS256に対応する](https://simple-minds-think-alike.moritamorie.com/entry/go-oidc-with-hs256)
-- [【Golang】Auth0のOpenID Connect連携アプリを作るチュートリアルをやってみた](https://simple-minds-think-alike.moritamorie.com/entry/go-oidc-with-auth0)
 <!-- BLOG-POST-LIST:END -->
