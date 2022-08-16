@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Golang】Twilio VerifyでSMS送信、パスコード検証してみる](https://simple-minds-think-alike.moritamorie.com/entry/verify-with-twilio-go)
 - [APDUプロトコルを通じてマイナンバーカードで電子署名する](https://simple-minds-think-alike.moritamorie.com/entry/my-number-card-with-apdu)
 - [OpenSCを使ってマイナンバーカードで電子署名・検証してみた](https://simple-minds-think-alike.moritamorie.com/entry/my-number-card-with-opensc)
 - [【Golang】GoLandにstaticcheckを設定する](https://simple-minds-think-alike.moritamorie.com/entry/goland-staticcheck)
 - [【Golang】Cookieを認証・暗号化するライブラリ gorilla/cookie を試してみた](https://simple-minds-think-alike.moritamorie.com/entry/gorlila-cookie)
-- [【Golang】slack-goを使ってSlackのリクエスト署名を検証する＜解説篇＞](https://simple-minds-think-alike.moritamorie.com/entry/howto-verify-requests-with-slack-go)
 <!-- BLOG-POST-LIST:END -->
