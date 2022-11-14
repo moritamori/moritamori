@@ -4,9 +4,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [【Golang】for-rangeループの中でポインタを使うと同じに値がなる](https://simple-minds-think-alike.moritamorie.com/entry/for-range-with-pointer)
 - [【Golang】Twilio VerifyでSMS送信、パスコード検証してみる](https://simple-minds-think-alike.moritamorie.com/entry/verify-with-twilio-go)
 - [APDUプロトコルを通じてマイナンバーカードで電子署名する](https://simple-minds-think-alike.moritamorie.com/entry/my-number-card-with-apdu)
 - [OpenSCを使ってマイナンバーカードで電子署名・検証してみた](https://simple-minds-think-alike.moritamorie.com/entry/my-number-card-with-opensc)
 - [【Golang】GoLandにstaticcheckを設定する](https://simple-minds-think-alike.moritamorie.com/entry/goland-staticcheck)
-- [【Golang】Cookieを認証・暗号化するライブラリ gorilla/cookie を試してみた](https://simple-minds-think-alike.moritamorie.com/entry/gorlila-cookie)
 <!-- BLOG-POST-LIST:END -->
