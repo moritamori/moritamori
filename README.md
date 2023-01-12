@@ -4,7 +4,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [【Github Actions】configuration variablesで機密性の無い変数を設定する](https://simple-minds-think-alike.moritamorie.com/entry/configuration-variables-in-workflows)
+- [【GitHub Actions】configuration variablesで機密性の無い変数を設定する](https://simple-minds-think-alike.moritamorie.com/entry/configuration-variables-in-workflows)
 - [【Rails】範囲オブジェクト&lpar;Range&rpar;を使ったActiveRecordのwhere比較、範囲検索のコードの書き方](https://simple-minds-think-alike.moritamorie.com/entry/active-record-where-with-range)
 - [Go 1.20 crypto/ecdh導入の理由](https://simple-minds-think-alike.moritamorie.com/entry/crypto-ecdh)
 - [【Golang】AWS LambdaをSAMでデバッグする方法](https://simple-minds-think-alike.moritamorie.com/entry/golang-lambda-vscode-debug)
