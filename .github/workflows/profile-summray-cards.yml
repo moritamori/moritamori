@@ -9,6 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v2
@@ -17,7 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-
+          UTC_OFFSET: 9
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://simple-minds-think-alike.hatenablog.com/rss"
+          feed_list: "https://blog.moritamori.net/rss"
