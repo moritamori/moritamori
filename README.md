@@ -6,9 +6,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vite + Svelte環境でのChrome拡張機能E2Eテスト：Playwrightで躓いた2つの罠と解決法](https://blog.moritamori.net/entry/chrome-extension-e2e-with-playwright)
 - [CloudflareのBulk Redirectsを使って無料でドメインリダイレクトを実現する方法](https://blog.moritamori.net/entry/cloudflare-bulk-redirects)
 - [【GitHub Actions】configuration variablesで機密性の無い変数を設定する](https://blog.moritamori.net/entry/configuration-variables-in-workflows)
 - [【Rails】範囲オブジェクト&lpar;Range&rpar;を使ったActiveRecordのwhere比較、範囲検索のコードの書き方](https://blog.moritamori.net/entry/active-record-where-with-range)
 - [Go 1.20 crypto/ecdh導入の理由](https://blog.moritamori.net/entry/crypto-ecdh)
-- [【Golang】AWS LambdaをSAMでデバッグする方法](https://blog.moritamori.net/entry/golang-lambda-vscode-debug)
 <!-- BLOG-POST-LIST:END -->
